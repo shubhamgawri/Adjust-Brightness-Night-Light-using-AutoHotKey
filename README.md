@@ -1,6 +1,6 @@
 # Adjust-Brightness-Night-Light-using-AutoHotKey
 Adjust Brightness and switch Night Light using AutoHotKey for Windows 10
-###How to use:  
+### How to use:  
 1) Clone the repo and move the files in ```../Documents/AutoHotKey/..```
 2) Install requirements and AutoHotKey.
 3) Run both the ".ahk" files.
